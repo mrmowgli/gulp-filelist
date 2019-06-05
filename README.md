@@ -9,10 +9,6 @@
 
 Note: This version of gulp-filelist, 1.2.0 is compatible with Node 6+, and Gulp 4+.
 
-Add to your Node.js dev dependencies:
-```bash
-npm install --savedev gulp-filelist
-```
 
 Add it to your gulp file:
 
@@ -35,7 +31,7 @@ Outputs `out/filelist.json`:
 ## Installation
 
 ```bash
-$ npm install gulp-filelist
+$ npm install --savedev gulp-filelist
 ```
 
 ## Options
